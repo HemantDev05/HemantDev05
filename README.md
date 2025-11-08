@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Hemant
 
 💡 Frontend Developer with **2.6 years of experience** building responsive, user-focused web applications using modern JavaScript frameworks.  
-🚀 Currently exploring **Backend Development** with Node.js and Express to become a **Full Stack Developer**.  
+🚀 Currently exploring **Backend Development** with Node.js and Express.  
 🌱 Learning **TypeScript** and **Next.js** to craft scalable and efficient applications.  
 ✨ Passionate about creating seamless user experiences and writing clean, maintainable code.
 
